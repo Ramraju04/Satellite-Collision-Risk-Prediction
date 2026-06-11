@@ -346,7 +346,7 @@ AI/ML Engineer | Python Developer | Generative AI Enthusiast
 
 GitHub: https://github.com/Ramraju04
 
-LinkedIn: Add Your LinkedIn URL
+LinkedIn: https://www.linkedin.com/in/ramaraju-bodda-b44754266
 
 ---
 
